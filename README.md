@@ -1,5 +1,23 @@
 # React_CLI_RT
 
+**Description:**
+`react-cli-rt` is a command-line tool designed to streamline the process of creating React applications. It comes preconfigured with essential technologies such as Tailwind CSS and Redux, making it easier for developers to start new projects with a strong foundation.
+
+**Key Features:**
+
+- Quickly generate new React applications.
+- Preconfigured setup with Tailwind CSS and Redux.
+- Hassle-free project initialization.
+- Hot-reloading for an efficient development experience.
+
+**Dependencies:**
+
+- Node.js (Minimum version required)
+- React
+- Redux
+- Tailwind CSS
+- Other relevant dependencies
+
 ## Usage
 
 For one time use of the command, run the following command:
