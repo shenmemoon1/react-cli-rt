@@ -12,5 +12,11 @@ To install the command globally, run the following command:
 
 ```shell
 npm install -g react-cli-rt
-create-solid-app
+
 ```
+
+To create a create react template using:
+
+> ```
+> npx react-cli-rt your-
+> ```
