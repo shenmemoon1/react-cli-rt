@@ -1,5 +1,7 @@
 # React_CLI_RT
 
+![image](https://github.com/shenmemoon1/react-cli-rt/assets/79250603/73cbf1bb-f300-4c57-9e91-5aa48b8c0045)
+
 **Description:**
 `react-cli-rt` is a command-line tool designed to streamline the process of creating React applications. It comes preconfigured with essential technologies such as Tailwind CSS and Redux, making it easier for developers to start new projects with a strong foundation.
 
