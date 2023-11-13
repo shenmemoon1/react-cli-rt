@@ -42,7 +42,9 @@ npx react-cli-rt your-project-name
 
 To install project dependencies:
 
+```
 `pnpm install`
+```
 
 Run project:
 
