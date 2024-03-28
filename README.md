@@ -14,11 +14,10 @@
 
 **Dependencies:**
 
-- Node.js (Minimum version required)
+- Node.js
 - React
 - Redux
 - Tailwind CSS
-- Other relevant dependencies
 
 ## Usage
 
